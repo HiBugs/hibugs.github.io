@@ -1,0 +1,31 @@
+.container {
+    max-width: 800px;
+}
+
+.portrait {
+    margin: 20px auto;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+a:visited {
+    color: #901;
+}
+
+p.pub { 
+ padding-left: 1em;
+}
+
+.fontSize{
+    font-size: 17px;
+}
+.fontStyle{
+    padding-left: 1em;
+    font-size: 17px;
+}
